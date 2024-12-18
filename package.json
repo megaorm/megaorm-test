@@ -1,0 +1,44 @@
+{
+  "name": "@megaorm/test",
+  "version": "1.2.0",
+  "author": "Mohamed",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "description": "This package is designed to assist developers in type checking and validation for various JavaScript values. It provides a collection of type-checking functions, and utilities to validate your values.",
+  "scripts": {
+    "test": "npx jest --coverage",
+    "build": "tsc --watch"
+  },
+  "repository": {
+    "url": "git+https://github.com/megaorm/megaorm-test.git"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "megaorm",
+    "type-checking",
+    "validation",
+    "type-validation",
+    "javascript",
+    "typescript",
+    "type-safety",
+    "value-checking",
+    "data-validation",
+    "type-utils",
+    "data-type",
+    "utility-functions",
+    "megaorm-test",
+    "type-checker",
+    "js-validation",
+    "ts-validation",
+    "type-helpers",
+    "type-check",
+    "data-checking"
+  ]
+}
